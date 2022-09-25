@@ -1,0 +1,89 @@
+E:\PROJECT\RegFB\bin\Debug\RegFB.exe.config
+E:\PROJECT\RegFB\bin\Debug\RegFB.exe
+E:\PROJECT\RegFB\bin\Debug\RegFB.pdb
+E:\PROJECT\RegFB\bin\Debug\WebDriver.dll
+E:\PROJECT\RegFB\bin\Debug\WebDriver.Support.dll
+E:\PROJECT\RegFB\bin\Debug\WebDriver.xml
+E:\PROJECT\RegFB\bin\Debug\WebDriver.Support.xml
+E:\PROJECT\RegFB\obj\Debug\RegFB.Form1.resources
+E:\PROJECT\RegFB\obj\Debug\RegFB.Properties.Resources.resources
+E:\PROJECT\RegFB\obj\Debug\RegFB.csproj.GenerateResource.cache
+E:\PROJECT\RegFB\obj\Debug\RegFB.csproj.CoreCompileInputs.cache
+E:\PROJECT\RegFB\obj\Debug\RegFB.csproj.CopyComplete
+E:\PROJECT\RegFB\obj\Debug\RegFB.exe
+E:\PROJECT\RegFB\obj\Debug\RegFB.pdb
+E:\PROJECT\RegFB\bin\Debug\RegExTester.exe
+E:\PROJECT\RegFB\bin\Debug\xNet.dll
+E:\PROJECT\RegFB\obj\Debug\RegFB.csprojAssemblyReference.cache
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\obj\Debug\RegFB.csprojAssemblyReference.cache
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\obj\Debug\RegFB.Form1.resources
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\obj\Debug\RegFB.Properties.Resources.resources
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\obj\Debug\RegFB.csproj.GenerateResource.cache
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\obj\Debug\RegFB.csproj.CoreCompileInputs.cache
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\obj\Debug\RegFB.exe
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\obj\Debug\RegFB.pdb
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\RegFB.exe.config
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\RegFB.exe
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\RegFB.pdb
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\WebDriver.dll
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\WebDriver.Support.dll
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\WebDriver.xml
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\bin\Debug\WebDriver.Support.xml
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFB\obj\Debug\RegFB.csproj.CopyComplete
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\RegFB.exe.config
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\RegFB.exe
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\RegFB.pdb
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\Otp.NET.dll
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\WebDriver.dll
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\WebDriver.Support.dll
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\WebDriver.xml
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\bin\Debug\WebDriver.Support.xml
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\obj\Debug\RegFB.csprojAssemblyReference.cache
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\obj\Debug\RegFB.Form1.resources
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\obj\Debug\RegFB.Properties.Resources.resources
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\obj\Debug\RegFB.csproj.GenerateResource.cache
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\obj\Debug\RegFB.csproj.CoreCompileInputs.cache
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\obj\Debug\RegFB.csproj.CopyComplete
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\obj\Debug\RegFB.exe
+C:\Users\Ngo Sy Tuan Anh\Documents\My Code\PROJECT\RegFBme\RegFB\obj\Debug\RegFB.pdb
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\RegFB.exe.config
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\RegFB.exe
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\RegFB.pdb
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\BouncyCastle.Crypto.dll
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\Otp.NET.dll
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\WebDriver.dll
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\WebDriver.Support.dll
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\BouncyCastle.Crypto.xml
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\WebDriver.xml
+E:\DOWNLOAD\RegFB\RegFB\bin\Debug\WebDriver.Support.xml
+E:\DOWNLOAD\RegFB\RegFB\obj\Debug\RegFB.csprojAssemblyReference.cache
+E:\DOWNLOAD\RegFB\RegFB\obj\Debug\RegFB.Form1.resources
+E:\DOWNLOAD\RegFB\RegFB\obj\Debug\RegFB.Properties.Resources.resources
+E:\DOWNLOAD\RegFB\RegFB\obj\Debug\RegFB.csproj.GenerateResource.cache
+E:\DOWNLOAD\RegFB\RegFB\obj\Debug\RegFB.csproj.CoreCompileInputs.cache
+E:\DOWNLOAD\RegFB\RegFB\obj\Debug\RegFB.csproj.CopyComplete
+E:\DOWNLOAD\RegFB\RegFB\obj\Debug\RegFB.exe
+E:\DOWNLOAD\RegFB\RegFB\obj\Debug\RegFB.pdb
+D:\sendfile\RegFB2\RegFB\bin\Debug\RegFB.exe.config
+D:\sendfile\RegFB2\RegFB\bin\Debug\RegFB.exe
+D:\sendfile\RegFB2\RegFB\bin\Debug\RegFB.pdb
+D:\sendfile\RegFB2\RegFB\bin\Debug\BouncyCastle.Crypto.dll
+D:\sendfile\RegFB2\RegFB\bin\Debug\Otp.NET.dll
+D:\sendfile\RegFB2\RegFB\bin\Debug\WebDriver.dll
+D:\sendfile\RegFB2\RegFB\bin\Debug\WebDriver.Support.dll
+D:\sendfile\RegFB2\RegFB\bin\Debug\BouncyCastle.Crypto.xml
+D:\sendfile\RegFB2\RegFB\bin\Debug\WebDriver.xml
+D:\sendfile\RegFB2\RegFB\bin\Debug\WebDriver.Support.xml
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.csproj.AssemblyReference.cache
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.csproj.SuggestedBindingRedirects.cache
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.Form1.resources
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.Properties.Resources.resources
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.csproj.GenerateResource.cache
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.csproj.CoreCompileInputs.cache
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.csproj.CopyComplete
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.exe
+D:\sendfile\RegFB2\RegFB\obj\Debug\RegFB.pdb
